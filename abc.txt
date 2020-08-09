@@ -3,3 +3,4 @@
 5623963p
 ioi
 tyghujk
+禁用了其余两个插件，只留下git Blame
